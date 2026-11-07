@@ -48,3 +48,9 @@ risk and communicating findings to leadership.
 Assessment Table and Executive Summary to follow in subsequent commits.
 
 See `/evidence` folder for screenshots (sensitive fields redacted).
+
+## Demonstration Video
+
+Watch the full lab demonstration here: https://drive.google.com/file/d/19DjCuSBtCtzdFO8AHn0KCXOXVnvHv84w/view?usp=sharing
+
+*Note: Video hosted externally due to GitHub's file size limits.*
